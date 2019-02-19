@@ -31,10 +31,10 @@ about_widget_text: "My name is Freegians and this is my blog.<br>I am a full sta
 # Comments.
 comments:
   # Disqus comments
-  disqus_shortname: 
+  disqus_shortname: freegians-github-io
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-31506558-6
 
 # Social Media Platforms
 social_platforms:
